@@ -22,7 +22,7 @@
 
 # 📖   Add custom Ruby enumerables<a name="about-project"></a>
 
-**Add Ruby enumerables** For this milestone of my project, I  implemented my own version of Ruby's enumerable methods. I also wrote tests for each method using Rspec. The methods implemented are:
+**Add Ruby enumerables** For this milestone of my project, We implemented our own version of Ruby's enumerable methods. we also wrote tests for each method using Rspec. The methods implemented are:
 
 - #filter
 - #my_all?
