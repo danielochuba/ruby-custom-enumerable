@@ -111,6 +111,10 @@ To run the project:
 - GitHub: [@danielochuba](https://github.com/danielochuba)
 - Twitter: [@ochuba_daniel](https://twitter.com/ochuba_daniel)
 - LinkedIn: [Daniel Ochuba](https://www.linkedin.com/in/daniel-ochuba-ugochukwu)
+  
+👤 **Sebastián Hernández**
+- GitHub: [@shm04](https://github.com/shm04)
+- LinkedIn: [Sebastian Hernandez](https://www.linkedin.com/in/sebastian-hernandez-b42052259/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
