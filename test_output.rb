@@ -1,4 +1,4 @@
-require_relative 'my_list.rb'
+require_relative 'my_list'
 
 # Create our list
 list = MyList.new(1, 2, 3, 4)
@@ -13,4 +13,3 @@ puts(list.any? { |e| e == 5 }) # Output: false
 
 # Test #filter
 puts(list.filter(&:even?)) # Output: [2, 4]
-
